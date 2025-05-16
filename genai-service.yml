@@ -35,4 +35,4 @@ eureka:
     serviceUrl:
       defaultZone: http://discovery-server:8761/eureka/
   instance:
-    hostname: customers-service
+    hostname: genai-service
